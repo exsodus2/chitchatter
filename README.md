@@ -1,4 +1,4 @@
-# Chitchatter
+# Chitchatter!
 
 ![Chitchatter logo](./public/logo/logo.svg)
 
